@@ -1,10 +1,11 @@
 body {
   font-family: "Raleway", sans-serif;
+  color: aqua;
 }
 
 /* Hero Section */
 
-#Hero-Section {
+Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,7 +14,7 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,7 +23,7 @@ body {
 
 /* Contacto */
 
-#Contacto form label {
+Contacto form label {
   font-weight: 700;
   color: #373a3c;
 }
